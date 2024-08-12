@@ -15,7 +15,8 @@ This system promises to bring many practical benefits such as improving sleep qu
 - Socket I/O
 - FFT (Fast Fourier Transform)
 ## Relatived
-- Link to source code for signal measurement: https://drive.google.com/file/d/1p9veVa27KJtBMyoCWuAsqESB48pgBxWb/view?usp=drive_link
+- Detailed documentation of the project: https://docs.google.com/document/d/1BuN3-p7fkp3Hfp-SFHrpFxO1AkymMbJg/edit?usp=sharing&ouid=103410879762918091663&rtpof=true&sd=true
+- Detailed slides: https://docs.google.com/presentation/d/1f31fUoMkN2M_UQsv2NxQa5PDGEpqZjTR/edit?usp=sharing&ouid=103410879762918091663&rtpof=true&sd=true
 ## Preparing equipment
 - MPU6050 module
 - MAX30102 sensor
